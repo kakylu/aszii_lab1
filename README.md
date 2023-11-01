@@ -1,0 +1,1 @@
+# aszii_lab1
